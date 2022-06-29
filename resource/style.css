@@ -1,0 +1,18 @@
+
+.navbar-brand
+{
+  font-family: 'Lato', sans-serif;
+  color:black;
+  font-size: 40px;
+  font-weight: bolder;
+  margin: 10px;
+ 
+}
+
+.task {
+    text-align: center;
+}
+
+/* .container-fluid label {
+  visibility: hidden;
+} */
