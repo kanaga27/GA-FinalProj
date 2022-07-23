@@ -1,2 +1,2 @@
-# GA-FinalProj
+# Task-Planner
 bootcamp final project
